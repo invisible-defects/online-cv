@@ -78,7 +78,7 @@ projects:
     intro: 
     assignments:
       - title: Lootspot.net
-        link: "lootspot.net"
+        link: "https://lootspot.net"
         tagline: "RMT-платформа для продажи предметов и сервисов из онлайн-игр."
 
       - title: Collapse
@@ -87,7 +87,7 @@ projects:
         tagline: "Коллаборация с музыкантом Mishxn, визуализация музыки средствами Unity."
 
       - title: JustDoist
-        link: "github.com/UnimaginaryUnit/JustDoist"
+        link: "https://github.com/UnimaginaryUnit/JustDoist"
         tagline: "Онлайн-платформа для повышения личной продуктивности."
 
 publications:
