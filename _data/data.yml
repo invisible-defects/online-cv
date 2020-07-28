@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: ax.voronkov@gmail.com
-    phone: +7 966 027 34 37
+    phone: +7 995 120 70 69
     website:
     linkedin: 
     github: UnimaginaryUnit
@@ -29,10 +29,13 @@ sidebar:
         level: Родной
 
       - idiom: Английский
-        level: Профессиональный (advanced)
+        level: Свободный
 
       - idiom: Немецкий
         level: Базовый
+
+      - idiom: Датский
+        level: Начинающий
 
     interests:
       - item: Видеоигры, VR
@@ -67,24 +70,35 @@ experiences:
           - Разработка back-end платформы на Scala
           - Написание смарт-контрактов для платформы на C#
     - role: Fullstack-разработчик
-      time: 2019 - настоящее время
+      time: 2019 - 2020
       company: Arenum, Москва
       details: |
         Работа над платформой для мобильного киберспорта Arenum:
           - Верстка на Vue.js
           - Работа над CV: распознавание никнеймов на игровом экране
           - Работа над инфраструктурой: чат-бот для уведомлений, настройка CI-сборки мобильных приложений
+    - role: Unity-разработчик / back-end разработчик
+      time: 2020 - настоящее время
+      company: Pattern Digital Buro, Москва
+      details: |
+        Разработка интерактивных инсталляций и AR-приложений:
+          - Работа с Unity AR Foundation
+          - Реализация интерактивных стендов и инсталляций с помощью Unity, vvvv
+          - Разработка back-end на Go
 projects:
     title: Реализованные проекты
     intro: 
     assignments:
-      - title: Lootspot.net
-        link: "https://lootspot.net"
+      - title: Loot+
+        link: "https://loot.plus"
         tagline: "RMT-платформа для продажи предметов и сервисов из онлайн-игр."
+
+      - title: Runner 2049
+        link: "https://github.com/UnimaginaryUnit/ludumdare2020"
+        tagline: "Игра на Unity, созданная в рамках геймджема Ludum Dare 46"
 
       - title: Collapse
         link: "#"
-        # TODO: добавить демо видео
         tagline: "Коллаборация с музыкантом Mishxn, визуализация музыки средствами Unity."
 
       - title: JustDoist
@@ -115,7 +129,7 @@ skills:
 
     toolset:
       - name: Unity, C#, ECS
-        level: 70%
+        level: 80%
 
       - name: React, Vue.js, React Native
         level: 70%
@@ -127,6 +141,9 @@ skills:
         level: 55%
 
       - name: ML, DL, Decentralized
+        level: 30%
+
+      - name: Golang
         level: 30%
 
       - name: Figma
