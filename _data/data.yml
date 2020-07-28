@@ -98,7 +98,7 @@ projects:
         tagline: "Игра на Unity, созданная в рамках геймджема Ludum Dare 46"
 
       - title: Collapse
-        link: "#"
+        link:
         tagline: "Коллаборация с музыкантом Mishxn, визуализация музыки средствами Unity."
 
       - title: JustDoist
