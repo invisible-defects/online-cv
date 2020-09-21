@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Александр Воронков
-    tagline: Разработчик
+    name: Alexander Voronkov
+    tagline: Unity Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,107 +25,107 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Русский
-        level: Родной
+      - idiom: Russian
+        level: Native
 
-      - idiom: Английский
-        level: Свободный
+      - idiom: English
+        level: Advanced
 
-      - idiom: Немецкий
-        level: Базовый
+      - idiom: German
+        level: Basic
 
-      - idiom: Датский
-        level: Начинающий
+      - idiom: Danish
+        level: Beginner
 
     interests:
-      - item: Видеоигры, VR
+      - item: Videogames, VR
         link: https://steamcommunity.com/id/vostokcs
 
-      - item: Написание музыки, игра на инструментах
-        link:
+      - item: Music production, sound design
+        link: https://soundcloud.com/alexander-voronkov-917124107
 
-      - item: Воздушная акробатика
+      - item: Air acrobatics
         link:
 
 career-profile:
-    title: Описание
+    title: Description
     summary: |
-      Я разработчик, специализирующийся в разработке на Unity и C#. Имею опыт web-разработки (fullstack: React/Vue + Django/Flask), 
-      мобильной разработки (React Native) и разработки децентрализованных приложений (Solidity + js). Я также имею базовые навыки 
-      ML/DL, golang, работы с Linux, Docker и Jenkins. Я мечтаю посвятить свою жизнь разработке игр и готов активно изучать новые технологии 
-      и подходы к работе, вкладывать максимум времени и усилий в разработку проектов. Я реализую собственные небольшие игры и проекты в свободное 
-      время, так же работаю над совместными проектами с товарищами-энтузиастами. Имею опыт open-source разработки в проекте Coala.
+      I'm a software developer focusing mainly on Unity / C# development. I also have experience of web development 
+      (fullstack: React/Vue + Django/Flask), mobile development (React Native) & decentralized apps development (Solidity + JS). 
+      I'm quite good at working with Linux, Git, Docker. I'm familiar with ML/DL (Theano / TF), golang, Jenkins, CircleCI. 
+      My life dream is doing game development, so I am deeply committed to constant learning, exploring new technologies and design patterns.  
+      I create small games and projects with friends and colleagues in my free time. Moreover, I sometimes contribute to open-source projects. 
 education:
-    - degree: ФИВТ (ФПМИ)
-      university: МФТИ
+    - degree: Applied Mathematics and Computer Science (ФПМИ)
+      university: Moscow Institute of Physics and Technology (МФТИ)
       time: 2019-2020
       details: 
 experiences:
-    - role: Unity-разработчик / back-end разработчик
+    - role: Unity-developer / back-end developer
       time: 2018 - 2019
-      company: Expload, Москва
+      company: Expload, Moscow (RU)
       details: |
-        Работа над децентрализованной игровой платформой Expload:
-          - Разработка игр под платформу на Unity, децентрализованных web-игр на JS
-          - Разработка back-end платформы на Scala
-          - Написание смарт-контрактов для платформы на C#
-    - role: Fullstack-разработчик
+        Development of decentralized gaming platform "Expload":
+          - Creating decentralized games for the platform with Unity, decentralized Telegram-games with JS
+          - Back-end development of the platform with Scala
+          - Smart-contracts development with C#
+    - role: Fullstack-developer
       time: 2019 - 2020
-      company: Arenum (ex. Expload), Москва
+      company: Arenum (ex. Expload), Moscow (RU)
       details: |
-        Работа над платформой для мобильного киберспорта Arenum:
-          - Верстка на Vue.js
-          - Работа над CV: распознавание никнеймов на игровом экране
-          - Работа над инфраструктурой: чат-бот для уведомлений, настройка CI-сборки мобильных приложений
-    - role: Unity-разработчик / back-end разработчик
-      time: март 2020 - август 2020
-      company: Pattern Digital Buro, Москва
+        Development of mobile e-sports platform "Arenum":
+          - Front-end development with Vue.js
+          - Computer Vision development: on-screen player nickname recognition
+          - Infrastructure development: chat-bots for platform notifications, CI-pipelines for mobile apps
+    - role: Unity-developer / back-end developer
+      time: March 2020 - August 2020
+      company: Pattern Digital Buro, Moscow (RU)
       details: |
-        Разработка интерактивных инсталляций и AR-приложений:
-          - Работа с Unity AR Foundation
-          - Реализация интерактивных стендов и инсталляций с помощью Unity, vvvv
-          - Разработка back-end на Go
+        Creating interactive offline experiences with AR:
+          - AR-development with Unity AR Foundation
+          - Creating interactive displays and installations with Unity, vvvv
+          - Back-end development with Go
 projects:
-    title: Реализованные проекты
+    title: Personal Projects
     intro: 
     assignments:
-      - title: Loot+
+      - title: Loot+ (2019-2020)
         link: "https://loot.plus"
-        tagline: "RMT-платформа для продажи предметов и сервисов из онлайн-игр."
+        tagline: "RMT-platform for selling items and services from MMOs."
 
-      - title: Runner 2049
+      - title: Runner 2049 (2020)
         link: "https://github.com/UnimaginaryUnit/ludumdare2020"
-        tagline: "Игра на Unity, созданная в рамках геймджема Ludum Dare 46"
+        tagline: "Ludum Dare 46 entry"
 
-      - title: Collapse
+      - title: Collapse (2019)
         link:
-        tagline: "Коллаборация с музыкантом Mishxn, визуализация музыки средствами Unity."
+        tagline: "Visualizing music using Unity in collaboration with russian IDM musician Mishxn."
 
-      - title: JustDoist
+      - title: JustDoist (2018)
         link: "https://github.com/UnimaginaryUnit/JustDoist"
-        tagline: "Онлайн-платформа для повышения личной продуктивности."
+        tagline: "Online platform for boosting personal productivity."
 
 publications:
-    title: Достижения
+    title: Achievements
     intro: 
     papers:
-      - title: Хакатон GameNode, Москва, 1 место
+      - title: GameNode Hackathon, Moscow (RU), 1-st place
         link:
-        authors: Игра Ethernal - проект на стыке геймдева и децентрализованных технологий
+        authors: "Ethernal" - a decentralized aRPG based on Ethereum blockchain
         conference: 
 
-      - title: Хакатон Proof-Of-Skill, Москва, 2 место
+      - title: Proof-Of-Skill Hackathon, Moscow (RU), 2-nd place
         link:
-        authors: Игра Ethernal - проект на стыке геймдева и децентрализованных технологий
+        authors: "Ethernal" - a decentralized aRPG based on Ethereum blockchain
         conference:
 
-      - title: Дважды победитель Московского Конкурса Проектов, 2017, 2018
+      - title: Winner of Moscow Project Competition, 2017 and 2018
         link:
-        authors: Образовательные проекты, основанные на более доступном и эффективном получении знаний
-        conference: По результатам конкурса дважды ездил в ОЦ Сириус, где занимался машинным и глубоким обучением
+        authors: Educational projects, using new technologies to provide smooth learning experience for students
+        conference: Based on competition results, was granted 2 trips to Sochi Sirius educational center, where I studied ML / DL
 
 skills:
-    title: Навыки
+    title: Skills
 
     toolset:
       - name: Unity, C#, ECS
