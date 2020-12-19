@@ -52,7 +52,7 @@ career-profile:
     summary: |
       I'm a software developer focusing mainly on Unity / C# development. I also have experience of web development 
       (fullstack: React/Vue + Django/Flask), mobile development (React Native) & decentralized apps development (Solidity + JS). 
-      I'm quite good at working with Linux, Git, Docker. I'm familiar with ML/DL (Theano / TF), golang, Jenkins, CircleCI. 
+      I'm quite good at working with Linux, Git, Docker. I'm familiar with ML/DL (Theano / TF), golang, Jenkins, CircleCI, Sentry. 
       My life dream is doing game development, so I am deeply committed to constant learning, exploring new technologies and design patterns.  
       I create small games and projects with friends and colleagues in my free time. Moreover, I sometimes contribute to open-source projects. 
 education:
@@ -85,13 +85,26 @@ experiences:
           - AR-development with Unity AR Foundation
           - Creating interactive displays and installations with Unity, vvvv
           - Back-end development with Go
+    - role: Co-founder, developer
+      time: June 2019 - December 2020
+      company: Loot+, Moscow (RU)
+      details: |
+        Online marketplace for in-game items and services: https://loot.plus
+        First started as a part-time project, turned into a full-time occupation.
+        Launched in December of 2020.
+
+        Curating full development cycle:
+          - Front-end development with TS + React
+          - Re-designing parts of the project
+          - Back-end development with Go (gomicro)
+          - Assisting with DevOps (Yandex.Cloud, Kubernetes, mongo-as-service, Sentry)
 projects:
     title: Personal Projects
     intro: 
     assignments:
-      - title: Loot+ (2019-2020)
-        link: "https://loot.plus"
-        tagline: "RMT-platform for selling items and services from MMOs."
+      - title: Unity Helpers
+        link: "https://github.com/UnimaginaryUnit/Unity-Helpers"
+        tagline: "Small list of C# code snippets to help with Unity development."
 
       - title: Runner 2049 (2020)
         link: "https://github.com/UnimaginaryUnit/ludumdare2020"
@@ -109,6 +122,11 @@ publications:
     title: Achievements
     intro: 
     papers:
+      - title: Otkritie Bank OpenHack, Moscow (RU), 1-st place
+        link: "https://www.cnews.ru/articles/2020-10-29_stress_i_haos_kak_faktory_rostarazrabotchiki"
+        authors: Bugster - bug-tracking gamification service
+        conference:
+
       - title: GameNode Hackathon, Moscow (RU), 1-st place
         link:
         authors: Ethernal - a decentralized aRPG based on Ethereum blockchain
@@ -137,7 +155,7 @@ skills:
       - name: Python, Flask, Django
         level: 65%
 
-      - name: Linux, Docker, Jenkins
+      - name: Linux, Docker, Jenkins, Kubernetes
         level: 55%
 
       - name: ML, DL, Decentralized
