@@ -103,6 +103,10 @@ projects:
     title: Personal Projects
     intro: 
     assignments:
+    - title: Deep Cuts 2020
+        link: "https://2020.deepcuts.ru/"
+        tagline: "Interactive 3D webpage made with Unity + WebGL."
+
       - title: Unity Helpers
         link: "https://github.com/UnimaginaryUnit/Unity-Helpers"
         tagline: "Small list of C# code snippets to help with Unity development."
