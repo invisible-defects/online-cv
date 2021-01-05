@@ -103,7 +103,7 @@ projects:
     title: Personal Projects
     intro: 
     assignments:
-    - title: Deep Cuts 2020
+      - title: Deep Cuts 2020
         link: "https://2020.deepcuts.ru/"
         tagline: "Interactive 3D webpage made with Unity + WebGL."
 
