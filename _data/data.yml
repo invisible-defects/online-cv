@@ -61,7 +61,7 @@ education:
       time: 2019-2020
       details: 
 experiences:
-    - role: Unity-developer / back-end developer
+    - role: Unity-developer
       time: 2018 - 2019
       company: Expload, Moscow (RU)
       details: |
@@ -77,7 +77,7 @@ experiences:
           - Front-end development with Vue.js
           - Computer Vision development: on-screen player nickname recognition
           - Infrastructure development: chat-bots for platform notifications, CI-pipelines for mobile apps
-    - role: Unity-developer / back-end developer
+    - role: Unity-developer
       time: March 2020 - August 2020
       company: Pattern Digital Buro, Moscow (RU)
       details: |
