@@ -38,13 +38,13 @@ sidebar:
         level: Beginner
 
     interests:
-      - item: Videogames, VR
-        link: https://steamcommunity.com/id/vostokcs
+      - item: Videogames, esports
+        link: https://steamcommunity.com/id/bitingcold
 
       - item: Music production, sound design
         link: https://soundcloud.com/alexander-voronkov-917124107
 
-      - item: Air acrobatics
+      - item: Skateboarding
         link:
 
 career-profile:
@@ -61,7 +61,7 @@ education:
       time: 2019-2020
       details: 
 experiences:
-    - role: Unity-developer
+    - role: Unity Developer
       time: 2018 - 2019
       company: Expload, Moscow (RU)
       details: |
@@ -69,7 +69,7 @@ experiences:
           - Creating decentralized games for the platform with Unity, decentralized Telegram-games with JS
           - Back-end development of the platform with Scala
           - Smart-contracts development with C#
-    - role: Fullstack-developer
+    - role: Fullstack Developer
       time: 2019 - 2020
       company: Arenum (ex. Expload), Moscow (RU)
       details: |
@@ -77,7 +77,7 @@ experiences:
           - Front-end development with Vue.js
           - Computer Vision development: on-screen player nickname recognition
           - Infrastructure development: chat-bots for platform notifications, CI-pipelines for mobile apps
-    - role: Unity-developer
+    - role: Unity Developer
       time: March 2020 - August 2020
       company: Pattern Digital Buro, Moscow (RU)
       details: |
@@ -85,7 +85,7 @@ experiences:
           - AR-development with Unity AR Foundation
           - Creating interactive displays and installations with Unity, vvvv
           - Back-end development with Go
-    - role: Co-founder, developer
+    - role: Co-founder, Fullstack Developer
       time: June 2019 - December 2020
       company: Loot+, Moscow (RU)
       details: |
@@ -105,7 +105,7 @@ experiences:
       details: |
         Interactive offline & audiovisual experiences with Unity:
           - URP, HDRP, Shader Graph, VFX Graph
-          - AR, OSC-based devices interaction
+          - AR, Azure Kinect, OSC-based devices interaction
 projects:
     title: Personal Projects
     intro: 
