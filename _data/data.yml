@@ -100,12 +100,17 @@ experiences:
           - Back-end development with Go (gomicro)
           - Assisting with DevOps (Yandex.Cloud, Kubernetes, mongo-as-service, Sentry)
     - role: Unity Developer
-      time: January 2021 - Present
+      time: January 2021 - April 2021
       company: FRANTS Technology & Design, Moscow (RU)
       details: |
         Interactive offline & audiovisual experiences with Unity:
           - URP, HDRP, Shader Graph, VFX Graph
           - AR, Azure Kinect, OSC-based devices interaction
+    - role: Unity Developer
+      time: April 2021 - Present
+      company: Colossi Games, Moscow (RU)
+      details: |
+        Mobile game development
 projects:
     title: Personal Projects
     intro: 
