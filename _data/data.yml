@@ -89,8 +89,7 @@ experiences:
       time: June 2019 - December 2020
       company: Loot+, Moscow (RU)
       details: |
-        Online marketplace for in-game items and services: https://loot.plus 
-        
+        Online marketplace for in-game items and services.
         First started as a part-time project, turned into a full-time occupation.
         Launched in December of 2020.
 
@@ -107,10 +106,12 @@ experiences:
           - URP, HDRP, Shader Graph, VFX Graph
           - AR, Azure Kinect, OSC-based devices interaction
     - role: Unity Developer
-      time: April 2021 - Present
+      time: April 2021 - August 2021
       company: Colossi Games, Moscow (RU)
       details: |
-        Mobile game development
+        Mobile game development with Unity:
+          - Implementation of game logic, UI logic
+          - Zenject, shaders
 projects:
     title: Personal Projects
     intro: 
@@ -139,6 +140,11 @@ publications:
     title: Achievements
     intro: 
     papers:
+      - title: Definition Hackathon, Moscow (RU), special prize
+        link: "https://definitionhack.io/"
+        authors: Warible - NFT-based decentralized card game
+        conference:
+
       - title: Otkritie Bank OpenHack, Moscow (RU), 1-st place
         link: "https://www.cnews.ru/articles/2020-10-29_stress_i_haos_kak_faktory_rostarazrabotchiki"
         authors: Bugster - bug-tracking gamification service
