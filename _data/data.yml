@@ -113,10 +113,12 @@ experiences:
           - Implementation of game logic, UI logic
           - Zenject, shaders
     - role: Unity Developer
-        time: August 2021 - Current
-        company: Sensorium XR, Moscow (RU)
-        details: |
-          Mobile game & AR development with Unity
+      time: August 2021 - Current
+      company: Sensorium XR, Moscow (RU)
+      details: |
+        Mobile game & AR development with Unity:
+          - ARFoundation
+          - Shaders
 projects:
     title: Personal Projects
     intro: 
