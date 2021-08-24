@@ -112,6 +112,11 @@ experiences:
         Mobile game development with Unity:
           - Implementation of game logic, UI logic
           - Zenject, shaders
+    - role: Unity Developer
+        time: August 2021 - Current
+        company: Sensorium XR, Moscow (RU)
+        details: |
+          Mobile game & AR development with Unity
 projects:
     title: Personal Projects
     intro: 
