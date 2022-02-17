@@ -51,8 +51,8 @@ career-profile:
     title: Description
     summary: |
       I'm a software developer focusing mainly on Unity / C# development. I also have experience of web development 
-      (fullstack: React/Vue + Django/Flask), mobile development (React Native) & decentralized apps development (Solidity + JS). 
-      I'm quite good at working with Linux, Git, Docker. I'm familiar with ML/DL (Theano / TF), golang, Jenkins, CircleCI, Sentry. 
+      (fullstack: React + golang / Python) & decentralized apps development (Solidity + JS / TS). 
+      I'm quite good at working with Linux, Git, Docker. I'm familiar with ML / DL (Theano / TF), Jenkins, CircleCI, Sentry, Kubernetes. 
       My life dream is doing game development, so I am deeply committed to constant learning, exploring new technologies and design patterns.  
       I create small games and projects with friends and colleagues in my free time. Moreover, I sometimes contribute to open-source projects. 
 education:
@@ -186,7 +186,7 @@ skills:
       - name: Python, golang
         level: 60%
 
-      - name: Linux, Docker, Jenkins, Kubernetes
+      - name: Linux, Docker, Kubernetes
         level: 50%
 
       - name: ML, DL
