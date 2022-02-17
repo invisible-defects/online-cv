@@ -16,7 +16,7 @@ sidebar:
     phone: +7 995 120 70 69
     website:
     linkedin: 
-    github: UnimaginaryUnit
+    github: invisible-defects
     gitlab: UnimaginaryUnit
     bitbucket:
     twitter:
@@ -38,11 +38,11 @@ sidebar:
         level: Beginner
 
     interests:
-      - item: Videogames, esports
-        link: https://steamcommunity.com/id/bitingcold
+      - item: Videogames, e-sports
+        link: 
 
       - item: Music production, sound design
-        link: https://soundcloud.com/alexander-voronkov-917124107
+        link: 
 
       - item: Skateboarding
         link:
@@ -117,14 +117,15 @@ experiences:
       company: Sensorium XR, Moscow (RU)
       details: |
         Mobile game & AR development with Unity:
-          - ARFoundation
-          - Shaders
+          - Implementation of game logic
+          - Flutter + Unity
+          - Zenject, ARFoundation, shaders
 projects:
     title: Personal Projects
     intro: 
     assignments:
       - title: Deep Cuts 2020
-        link: "https://2020.deepcuts.ru/"
+        link:
         tagline: "Interactive 3D webpage made with Unity + WebGL."
 
       - title: Unity Helpers
@@ -179,21 +180,18 @@ skills:
       - name: Unity, C#, ECS
         level: 80%
 
-      - name: React, Vue.js, React Native
+      - name: React, DApps
         level: 70%
 
-      - name: Python, Flask, Django
-        level: 65%
+      - name: Python, golang
+        level: 60%
 
       - name: Linux, Docker, Jenkins, Kubernetes
-        level: 55%
+        level: 50%
 
-      - name: ML, DL, Decentralized
+      - name: ML, DL
         level: 30%
 
-      - name: Golang
-        level: 30%
-
-      - name: Figma
+      - name: UI/UX, Figma
         level: 25%
 

@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Alexander Voronkov
-url: 'https://unimaginaryunit.github.io/online-cv/'
+url: 'https://invisible-defects.github.io/online-cv/'
 baseurl: '/online-cv' #change it according to your repository name
 description: Online CV
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
