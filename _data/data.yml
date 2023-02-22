@@ -73,23 +73,26 @@ experiences:
       details: |
         Development of Sensorium Galaxy mobile experience:
           - Curating & leading Unity team; assisting on product mechanics, development pipelines, creative decision-making
-          - Forming project architecture; implementing game mechanics, Flutter + Unity integration
-          - Working with Oculus Quest 2, porting mobile experience to VR
-          - Zenject, UniTask, Protobuf, Cinemachine, ARFoundation, shaders
+          - Designing project architecture and ensuring its consistency (code review, docs)
+          - Implementing game mechanics & editor tools, Flutter + Unity integration, R&D
+          - Working with Zenject, UniTask, Protobuf, Cinemachine, ARFoundation, shaders
+          - Porting mobile experience to VR (Meta Quest 2)
     - role: Unity Developer
       time: April 2021 - August 2021
       company: Colossi Games, Cyprus (remote)
       details: |
         Mobile game development with Unity:
-          - Implementation of game logic, UI logic
-          - Zenject, shaders
+          - Development of game mechanics, UI (layouts + code)
+          - Working with Zenject, shaders
     - role: Unity Developer
       time: January 2021 - April 2021
       company: FRANTS Technology & Design, Moscow (on-site)
       details: |
         Interactive offline & audiovisual experiences with Unity:
-          - URP, HDRP, Shader Graph, VFX Graph
-          - AR, Azure Kinect, OSC-based devices interaction
+          - Creating installations with Timeline, Shader Graph, VFX Graph
+          - Working on UI (layouts, code, generative animations)
+          - Hardware integration (Arduino, STM32)
+          - Curating a small dev team
     - role: Co-founder, Fullstack Developer
       time: June 2019 - December 2020
       company: Loot+, Moscow (on-site)
@@ -111,22 +114,19 @@ experiences:
           - AR-development with Unity AR Foundation
           - Creating interactive displays and installations with Unity, vvvv
           - Back-end development with Go
-    - role: Fullstack Developer
-      time: 2019 - 2020
-      company: Arenum (ex. Expload), Moscow (on-site)
-      details: |
-        Development of mobile e-sports platform "Arenum":
-          - Front-end development with Vue.js
-          - Computer Vision development: on-screen player nickname recognition
-          - Infrastructure development: chat-bots for platform notifications, CI-pipelines for mobile apps
-    - role: Unity Developer
-      time: 2018 - 2019
+    - role: Unity Developer / Fullstack Developer
+      time: October 2018 - March 2020
       company: Expload, Moscow (on-site)
       details: |
-        Development of decentralized gaming platform "Expload":
-          - Creating decentralized games for the platform with Unity, decentralized Telegram-games with JS
+        Development of decentralized gaming platform “Expload”:
+          - Creating decentralized games for the platform with Unity, embedded web-games with JS (TypeScript)
           - Back-end development of the platform with Scala
           - Smart-contracts development with C#
+
+        Project "Expload" was later closed and the team was transferred to project "Arenum", where I had a role of fullstack-developer:
+        - Front-end development of mobile e-sports platform with Vue.js
+        - Computer Vision development: on-screen player nickname recognition, game results recognition
+        - Infrastructure development: chat-bots for platform notifications, CI-pipelines for mobile apps
 projects:
     title: Personal Projects
     intro: 
