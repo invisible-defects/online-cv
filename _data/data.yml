@@ -50,11 +50,17 @@ sidebar:
 career-profile:
     title: Description
     summary: |
-      I'm a software developer focusing mainly on Unity / C# development. I also have experience of web development 
-      (fullstack: React + golang / Python) & decentralized apps development (Solidity + JS / TS). 
-      I'm quite good at working with Linux, Git, Docker. I'm familiar with ML / DL (Theano / TF), Jenkins, CircleCI, Sentry, Kubernetes. 
-      My life dream is doing game development, so I am deeply committed to constant learning, exploring new technologies and design patterns.  
-      I create small games and projects with friends and colleagues in my free time. Moreover, I sometimes contribute to open-source projects. 
+      Hello! My name is Alexander and I'm a Unity developer. I tend to constantly broaden my knowledge and study new technological and architectural approaches. 
+      I take responsibility for code that I deliver, so I'm always trying to minimise the amount of "black boxes" and maintain understanding of the code on different 
+      abstraction levels. I have experience of managing small-scale teams (up to 5 people in direction, up to 30-40 people in product team) and am quite good at 
+      keeping a warm, friendly atmosphere while still accelerating tech-related pipelines and processes.
+      
+      Skills highlights:
+        - Experience with various architectural approaches and patterns (MVx, ECS, GoF), follow industry best practices (SOLID, KISS, Clean Code). Good at designing project architecture, ensuring codebase and project structure consistency (code review, documentation, editor tools)
+        - Experience with various Unity-related frameworks & tools (Zenject, UniTask, Addressables + remote assets, Shader Graph, Cinemachine, Protobuf), common tools & software (Git, Linux, Github Actions, Sentry, Docker, Jira)
+        - Experience with development & performance optimisation for mobile platforms, including AR/VR
+        - Advanced understanding and broad experience with C#, good knowledge of CS and math, experience with other languages and stacks (Python, JS, Golang, C++)
+        - Good communication skills, able to create and sustain pipelines between directions, e.g. code <-> art
 education:
     - degree: Applied Mathematics and Computer Science (ФПМИ)
       university: Moscow Institute of Physics and Technology (МФТИ)
@@ -62,32 +68,31 @@ education:
       details: 
 experiences:
     - role: Unity Developer
-      time: 2018 - 2019
-      company: Expload, Moscow (RU)
+      time: August 2021 - Current
+      company: Sensorium XR, Moscow (hybrid)
       details: |
-        Development of decentralized gaming platform "Expload":
-          - Creating decentralized games for the platform with Unity, decentralized Telegram-games with JS
-          - Back-end development of the platform with Scala
-          - Smart-contracts development with C#
-    - role: Fullstack Developer
-      time: 2019 - 2020
-      company: Arenum (ex. Expload), Moscow (RU)
-      details: |
-        Development of mobile e-sports platform "Arenum":
-          - Front-end development with Vue.js
-          - Computer Vision development: on-screen player nickname recognition
-          - Infrastructure development: chat-bots for platform notifications, CI-pipelines for mobile apps
+        Development of Sensorium Galaxy mobile experience:
+          - Curating & leading Unity team; assisting on product mechanics, development pipelines, creative decision-making
+          - Forming project architecture; implementing game mechanics, Flutter + Unity integration
+          - Working with Oculus Quest 2, porting mobile experience to VR
+          - Zenject, UniTask, Protobuf, Cinemachine, ARFoundation, shaders
     - role: Unity Developer
-      time: March 2020 - August 2020
-      company: Pattern Digital Buro, Moscow (RU)
+      time: April 2021 - August 2021
+      company: Colossi Games, Cyprus (remote)
       details: |
-        Creating interactive offline experiences with AR:
-          - AR-development with Unity AR Foundation
-          - Creating interactive displays and installations with Unity, vvvv
-          - Back-end development with Go
+        Mobile game development with Unity:
+          - Implementation of game logic, UI logic
+          - Zenject, shaders
+    - role: Unity Developer
+      time: January 2021 - April 2021
+      company: FRANTS Technology & Design, Moscow (on-site)
+      details: |
+        Interactive offline & audiovisual experiences with Unity:
+          - URP, HDRP, Shader Graph, VFX Graph
+          - AR, Azure Kinect, OSC-based devices interaction
     - role: Co-founder, Fullstack Developer
       time: June 2019 - December 2020
-      company: Loot+, Moscow (RU)
+      company: Loot+, Moscow (on-site)
       details: |
         Online marketplace for in-game items and services.
         First started as a part-time project, turned into a full-time occupation.
@@ -99,46 +104,47 @@ experiences:
           - Back-end development with Go (gomicro)
           - Assisting with DevOps (Yandex.Cloud, Kubernetes, mongo-as-service, Sentry)
     - role: Unity Developer
-      time: January 2021 - April 2021
-      company: FRANTS Technology & Design, Moscow (RU)
+      time: March 2020 - August 2020
+      company: Pattern Digital Buro, Moscow (hybrid)
       details: |
-        Interactive offline & audiovisual experiences with Unity:
-          - URP, HDRP, Shader Graph, VFX Graph
-          - AR, Azure Kinect, OSC-based devices interaction
+        Creating interactive offline experiences with AR:
+          - AR-development with Unity AR Foundation
+          - Creating interactive displays and installations with Unity, vvvv
+          - Back-end development with Go
+    - role: Fullstack Developer
+      time: 2019 - 2020
+      company: Arenum (ex. Expload), Moscow (on-site)
+      details: |
+        Development of mobile e-sports platform "Arenum":
+          - Front-end development with Vue.js
+          - Computer Vision development: on-screen player nickname recognition
+          - Infrastructure development: chat-bots for platform notifications, CI-pipelines for mobile apps
     - role: Unity Developer
-      time: April 2021 - August 2021
-      company: Colossi Games, Moscow (RU)
+      time: 2018 - 2019
+      company: Expload, Moscow (on-site)
       details: |
-        Mobile game development with Unity:
-          - Implementation of game logic, UI logic
-          - Zenject, shaders
-    - role: Lead Unity Developer
-      time: August 2021 - Current
-      company: Sensorium XR, Moscow (RU)
-      details: |
-        Mobile game & AR development with Unity:
-          - Implementation of game logic
-          - Flutter + Unity
-          - Zenject, ARFoundation, shaders
-          - Unity team supervision
+        Development of decentralized gaming platform "Expload":
+          - Creating decentralized games for the platform with Unity, decentralized Telegram-games with JS
+          - Back-end development of the platform with Scala
+          - Smart-contracts development with C#
 projects:
     title: Personal Projects
     intro: 
     assignments:
-      - title: Deep Cuts 2020
-        link:
-        tagline: "Interactive 3D webpage made with Unity + WebGL."
+      - title: Audiovisuals (2021)
+        link: "https://vimeo.com/showcase/10194565"
+        tagline: "Audiovisual works made with Unity + Azure Kinect + Ableton"
 
-      - title: Unity Helpers
-        link: "https://github.com/UnimaginaryUnit/Unity-Helpers"
-        tagline: "Small list of C# code snippets to help with Unity development."
+      - title: Deep Cuts 2020
+        link: "https://vimeo.com/693974996"
+        tagline: "Interactive 3D webpage made with Unity + WebGL."
 
       - title: Runner 2049 (2020)
         link: "https://github.com/UnimaginaryUnit/ludumdare2020"
         tagline: "Ludum Dare 46 entry"
 
       - title: Collapse (2019)
-        link:
+        link: "https://vimeo.com/693961785"
         tagline: "Visualizing music using Unity in collaboration with russian IDM musician Mishxn."
 
       - title: JustDoist (2018)
