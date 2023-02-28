@@ -67,7 +67,7 @@ education:
       time: 2019-2020
       details: 
 experiences:
-    - role: Unity Developer
+    - role: Lead Unity Developer
       time: August 2021 - Current
       company: Sensorium XR, Moscow (hybrid)
       details: |
@@ -132,7 +132,7 @@ projects:
     intro: 
     assignments:
       - title: Audiovisuals (2021)
-        link: "https://vimeo.com/showcase/10194565"
+        link: "https://vimeo.com/showcase/10194565" 
         tagline: "Audiovisual works made with Unity + Azure Kinect + Ableton"
 
       - title: Deep Cuts 2020
