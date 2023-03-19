@@ -83,6 +83,7 @@ experiences:
           - Implementing game mechanics & editor tools, Flutter + Unity integration, R&D
           - Working with Zenject, UniTask, Protobuf, Cinemachine, ARFoundation, shaders
           - Porting mobile experience to VR (Meta Quest 2)
+        App: https://sensoriumgalaxy.com/mobile
     - role: Unity Developer
       time: April 2021 - August 2021
       company: Colossi Games, Cyprus (remote)
@@ -90,6 +91,7 @@ experiences:
         Mobile game development with Unity:
           - Development of game mechanics, UI (layouts + code)
           - Working with Zenject, shaders
+        App: https://www.colossi.games/about/
     - role: Unity Developer
       time: January 2021 - April 2021
       company: FRANTS Technology & Design, Moscow (on-site)
@@ -120,6 +122,7 @@ experiences:
           - AR-development with Unity AR Foundation
           - Creating interactive displays and installations with Unity, vvvv
           - Back-end development with Go
+        App: https://uwalk.app/
     - role: Unity Developer / Fullstack Developer
       time: October 2018 - March 2020
       company: Expload, Moscow (on-site)
@@ -133,6 +136,7 @@ experiences:
         - Front-end development of mobile e-sports platform with Vue.js
         - Computer Vision development: on-screen player nickname recognition, game results recognition
         - Infrastructure development: chat-bots for platform notifications, CI-pipelines for mobile apps
+        App: https://arenum.io/
 projects:
     title: Personal Projects
     intro: 
