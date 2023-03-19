@@ -51,16 +51,22 @@ career-profile:
     title: Description
     summary: |
       Hello! My name is Alexander and I'm a Unity developer. I tend to constantly broaden my knowledge and study new technological and architectural approaches. 
-      I take responsibility for code that I deliver, so I'm always trying to minimise the amount of "black boxes" and maintain understanding of the code on different 
-      abstraction levels. I have experience of managing small-scale teams (up to 5 people in direction, up to 30-40 people in product team) and am quite good at 
-      keeping a warm, friendly atmosphere while still accelerating tech-related pipelines and processes.
-      
-      Skills highlights:
-        - Experience with various architectural approaches and patterns (MVx, ECS, GoF), follow industry best practices (SOLID, KISS, Clean Code). Good at designing project architecture, ensuring codebase and project structure consistency (code review, documentation, editor tools)
+      I take responsibility for code that I deliver, so I'm always trying to minimize the amount of "black boxes" and maintain understanding of the code on different 
+      abstraction layers. I have experience of managing small-scale tech teams (up to 5 people in direction) and working in mid-scale product teams (up to 30-40 people). 
+      I am quite good at keeping a warm, friendly atmosphere while still accelerating tech-related pipelines and processes.
+
+      Technical skills highlights:
+        - Experience with various architectural approaches and patterns (MVx, ECS, GoF), follow industry best practices (SOLID, KISS, Clean Code). Good at designing project architecture, ensuring code-base and project structure consistency (code review, documentation, editor tools)
         - Experience with various Unity-related frameworks & tools (Zenject, UniTask, Addressables + remote assets, Shader Graph, Cinemachine, Protobuf), common tools & software (Git, Linux, Github Actions, Sentry, Docker, Jira)
-        - Experience with development & performance optimisation for mobile platforms, including AR/VR
-        - Advanced understanding and broad experience with C#, good knowledge of CS and math, experience with other languages and stacks (Python, JS, Golang, C++)
-        - Good communication skills, able to create and sustain pipelines between directions, e.g. code <-> art
+        - Experience building tech pipelines and tools, working closely with DevOps and Back-end teams (Client <-> Server, Remote Addressables & Content Administration/Distribution, CI)
+        - Advanced understanding and broad experience with C#, good knowledge of CS and math, experience with other languages and stacks (Python, JavaSript/TypeSript, Golang, C++)
+        - Experience with development & performance optimization for mobile platforms, including AR/VR
+
+      Soft skills highlights:
+        - Able to build a team from scratch (conducting interviews, on-boarding, initial structure & architecture)
+        - Good communication skills, able to create and sustain pipelines between departments, e.g. code <-> art
+        - Proactive and product-focused: able to propose change (when appropriate) and give deep feedback on others' proposals; experience with creative sessions, product decision-making & first board pitches
+        - Experience with Agile planning & tech documentation using Jira, Github (GH Issues + GH Wiki), Notion
 education:
     - degree: Applied Mathematics and Computer Science (ФПМИ)
       university: Moscow Institute of Physics and Technology (МФТИ)
