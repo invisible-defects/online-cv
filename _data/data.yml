@@ -82,7 +82,8 @@ experiences:
           - Designing project architecture and ensuring its consistency (code review, docs)
           - Implementing game mechanics & editor tools, Flutter + Unity integration, R&D
           - Working with Zenject, UniTask, Protobuf, Cinemachine, ARFoundation, shaders
-          - Porting mobile experience to VR (Meta Quest 2)
+          - Porting mobile experience to VR (Meta Quest 2)  
+
         App: https://sensoriumgalaxy.com/mobile
     - role: Unity Developer
       time: April 2021 - August 2021
@@ -90,7 +91,8 @@ experiences:
       details: |
         Mobile game development with Unity:
           - Development of game mechanics, UI (layouts + code)
-          - Working with Zenject, shaders
+          - Working with Zenject, shaders  
+
         App: https://www.colossi.games/about/
     - role: Unity Developer
       time: January 2021 - April 2021
@@ -121,7 +123,8 @@ experiences:
         Creating interactive offline experiences with AR:
           - AR-development with Unity AR Foundation
           - Creating interactive displays and installations with Unity, vvvv
-          - Back-end development with Go
+          - Back-end development with Go  
+
         App: https://uwalk.app/
     - role: Unity Developer / Fullstack Developer
       time: October 2018 - March 2020
@@ -135,7 +138,8 @@ experiences:
         Project "Expload" was later closed and the team was transferred to project "Arenum", where I had a role of fullstack-developer:
         - Front-end development of mobile e-sports platform with Vue.js
         - Computer Vision development: on-screen player nickname recognition, game results recognition
-        - Infrastructure development: chat-bots for platform notifications, CI-pipelines for mobile apps
+        - Infrastructure development: chat-bots for platform notifications, CI-pipelines for mobile apps  
+        
         App: https://arenum.io/
 projects:
     title: Personal Projects
